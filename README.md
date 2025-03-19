@@ -5,7 +5,7 @@ I'm here to learning something, practice and get a money if possible 😅
 <br>
 I'm learning Data Bank, Web Programming and SQL
 <br>
-Fun fact: I don't know how to do a presetation
+Fun fact: I don't know how to do a presetation, and my english is not too good, so sorry for some grammatical mistakes!
 <br>
 Was it good 😅? 
 <!--
