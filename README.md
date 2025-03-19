@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+I'm from Brazil, I'm studying systems analysis and development!
+<br>
+I'm here to learning something, practice and get a money if possible 😅
+<br>
+I'm learning Data Bank, Web Programming and SQL
+<br>
+Fun fact: I don't know how to do an apresetation
+<br>
+Was it good 😅? 
 <!--
 **TheHTR/TheHTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
